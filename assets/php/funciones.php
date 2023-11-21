@@ -1,6 +1,6 @@
 <?php
 
-function obtener_constancias($variable){
+/*function obtener_constancias($variable){
     try {
         //Importar Credenciales
             require 'database.php';
@@ -34,4 +34,4 @@ function obtener_trabajosCartas($variable){
 
 
 obtener_constancias($variable);
-obtener_trabajosCartas($variable);
+obtener_trabajosCartas($variable);*/

@@ -1,5 +1,5 @@
 <?php
-require './assets/php/funciones.php';
+/* require './assets/php/funciones.php';
 $id5 = "54df54-54df5";
 $id6 = "54df54-54df6";
 $id7 = "54df54-54df7";
@@ -459,4 +459,4 @@ $consulta_trabajoscartas11 = obtener_trabajoscartas($id11);
 
 </body>
 
-</html>
+</html>*/
